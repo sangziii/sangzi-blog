@@ -16,13 +16,13 @@ module.exports = {
   keywords: [`blog`],
   comment: {
     disqusShortName: 'sangzi', // Your disqus-short-name. check disqus.com.
-    utterances: 'JaeYeopHan/gatsby-starter-bee', // Your repository for archive comment
+    utterances: 'https://github.com/sangziii/sangzi.blog', // Your repository for archive comment
   },
   configs: {
     countOfInitialPost: 10, // Config your initial count of post
   },
   sponsor: {
-    buyMeACoffeeId: 'jbee',
+    buyMeACoffeeId: 'nuhends',
   },
   share: {
     facebookAppId: '', // Add facebookAppId for using facebook share feature v3.2
