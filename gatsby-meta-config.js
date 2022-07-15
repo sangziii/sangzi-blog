@@ -1,9 +1,9 @@
 module.exports = {
   title: `Blog.Sangzi.`,
-  description: `Blog posted about ...`,
+  description: `상대적인 지식 저장소 for Frontend, web product`,
   author: `Sangzi`,
   introduction: `Hi, This is sangzi blog`,
-  siteUrl: `https://gatsby-starter-bee.netlify.com`, // Your blog site url
+  siteUrl: `https://sangzi.blog`, // Your blog site url
   social: {
     twitter: ``, // Your Twitter account
     github: ``, // Your GitHub account
@@ -27,7 +27,7 @@ module.exports = {
   share: {
     facebookAppId: '', // Add facebookAppId for using facebook share feature v3.2
   },
-  ga: '0', // Add your google analytics tranking ID
-  ad: '', // Add your google adsense publisherId `ca-pub-xxxxxxxxxx`
+  ga: 'G-WYSCN1HYS9', // Add your google analytics tranking ID
+  ad: '453948296233877', // Add your google adsense publisherId `ca-pub-xxxxxxxxxx`
 
 }
