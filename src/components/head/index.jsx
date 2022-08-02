@@ -50,6 +50,10 @@ export function Head({ description, lang, meta, keywords, title }) {
                 name: `twitter:description`,
                 content: metaDescription,
               },
+              {
+                name: 'naver-site-verification',
+                content: 'e848c0c7ae6999308b986b41cdc69d8a2ab092e5',
+              }
             ]
               .concat(
                 keywords.length > 0
