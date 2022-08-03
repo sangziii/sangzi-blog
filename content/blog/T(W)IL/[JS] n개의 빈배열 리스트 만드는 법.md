@@ -7,7 +7,7 @@ draft: false
 
 ## 문제 발견
 
-<이미지>
+![swipping 컨텐츠](./images/swippingUi.png)
 
 swipping 컨텐츠에 첫번째 이미지가 노출되지 않는 문제가 있어 이를 해결하기 위해 디버깅을 하고 있었다. 원인은 이미지 리스트의 index number와 하단 페이지 인디케이터를 만들 때 index number가 제대로 매핑이 안되고 있기 때문이었다.
 
